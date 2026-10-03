@@ -4,6 +4,8 @@
 
 Before security, I spent 10 years in digital marketing and e-commerce, so I've seen firsthand how scammers use social platforms, fake stores and phishing to take people's money. Now I'm building the defenses.
 
+🎯 **Open to:** fraud analyst, SOC analyst and security analyst roles · Southern California or relocation
+
 ### 🛡️ Projects
 
 | Project | What it does |
