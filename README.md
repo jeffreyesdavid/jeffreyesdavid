@@ -8,6 +8,8 @@ Before security, I spent 10 years in digital marketing and e-commerce, so I've s
 
 ### 🛡️ Projects
 
+📓 **Following my progress?** I log every lab, incident response write-up, and lesson (plus a password breach checker) in [**cybersecurity-journey** →](https://github.com/jeffreyesdavid/cybersecurity-journey#progress-log)
+
 | Project | What it does |
 |---|---|
 | [**php-guardian**](https://github.com/jeffreyesdavid/php-guardian) | Finds every PHP install on a machine and flags versions vulnerable to php2shell, the critical flaw CISA warned about in Oct 2026. Caught a real unpatched server during testing. JSON output for SIEMs. [Project page →](https://jeffreyesdavid.github.io/php-guardian/) |
@@ -15,7 +17,6 @@ Before security, I spent 10 years in digital marketing and e-commerce, so I've s
 | [**vpn-guardian**](https://github.com/jeffreyesdavid/vpn-guardian) | Watches my connection every 30 seconds and alerts my laptop and phone the moment my VPN drops or leaks my real IP, with a local AI that explains each alert in plain English. [Project page →](https://jeffreyesdavid.github.io/vpn-guardian/) |
 | [**beat-guard**](https://github.com/jeffreyesdavid/beat-guard) | Fingerprints music producers' beats, timestamps them on Bitcoin, and finds them inside other songs, even under vocals or sped up. Outputs an evidence report. [Project page →](https://jeffreyesdavid.github.io/beat-guard/) |
 | [**tx-guard**](https://github.com/jeffreyesdavid/tx-guard) | Checks crypto transactions before you sign: flags 2,500+ known scam addresses, catches wallet-draining approvals, and simulates the transaction to show exactly what you'd lose. [Try it live →](https://txguard-jeffrey.streamlit.app) |
-| [**cybersecurity-journey**](https://github.com/jeffreyesdavid/cybersecurity-journey) | My learning log: incident response write-ups, a password breach checker, and labs. [Progress log →](https://github.com/jeffreyesdavid/cybersecurity-journey#progress-log) |
 
 ### 🧰 Skills
 Python · Bash · Threat detection · Incident response · Scam & fraud analysis · Network & wireless security · Local AI (Ollama) · Git · Ethereum · OSINT basics
