@@ -1,4 +1,4 @@
-## Hi, I'm Jeffrey 👋
+## Hello, I'm Jeffrey 
 
 **Aspiring Fraud & Security Analyst.** I build tools that stop scams and theft before they happen.
 
