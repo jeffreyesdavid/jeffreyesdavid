@@ -4,11 +4,11 @@
 
 Before security, I spent 10 years in digital marketing and e-commerce, so I've seen firsthand how scammers use social platforms, fake stores and phishing to take people's money. Now I'm building the defenses.
 
-🎯 **Open to:** fraud analyst, SOC analyst and security analyst roles · Southern California or relocation
+**Open to:** fraud analyst, SOC analyst and security analyst roles · Southern California or relocation
 
-### 🛡️ Projects
+### Projects
 
-📓 **Following my progress?** I log every lab, incident response write-up, and lesson (plus a password breach checker) in [**cybersecurity-journey** →](https://github.com/jeffreyesdavid/cybersecurity-journey#progress-log)
+ **Following my progress?** I log every lab, incident response write-up, and lesson (plus a password breach checker) in [**cybersecurity-journey** →](https://github.com/jeffreyesdavid/cybersecurity-journey#progress-log)
 
 | Project | What it does |
 |---|---|
