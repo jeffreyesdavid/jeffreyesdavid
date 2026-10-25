@@ -12,7 +12,7 @@ Before security, I spent 10 years in digital marketing and e-commerce, so I've s
 
 | Project | What it does |
 |---|---|
-| [**aegis-guardian**](https://github.com/jeffreyesdavid/aegis-guardian) | A consent-first personal safety & anti-scam agent: flags scam texts, shares your location only with people you choose, and alerts your trusted circle in an emergency, built so it can't be turned into the covert surveillance tool it prevents. Concept & threat model live. [Project page →](https://jeffreyesdavid.github.io/aegis-guardian/) |
+| [**aegis-guardian**](https://github.com/jeffreyesdavid/aegis-guardian) | 🆕 A free, bilingual (English/Spanish) anti-scam agent: paste a suspicious text or screenshot and it explains the red flags and what to do next. Consent-first by design, so it can't become the surveillance tool it prevents. Phase 1 local scam shield shipped (16 tests); AI scanner in progress for the **Meta Global AI Developer Hackathon**. [Project page →](https://jeffreyesdavid.github.io/aegis-guardian/) |
 | [**ai-guardian**](https://github.com/jeffreyesdavid/ai-guardian) | Finds the AI agents on your machine (apps, coding agents, browser extensions, MCP plugins) and flags what they can touch: plain-text API keys, access to SSH keys, disabled permission prompts. Falcon Guardian-style visibility, free and local. Found 16 AI agents on my own laptop. [Project page →](https://jeffreyesdavid.github.io/ai-guardian/) |
 | [**php-guardian**](https://github.com/jeffreyesdavid/php-guardian) | Finds every PHP install on a machine and flags versions vulnerable to php2shell, the critical flaw CISA warned about in Oct 2026. Caught a real unpatched server during testing. JSON output for SIEMs. [Project page →](https://jeffreyesdavid.github.io/php-guardian/) |
 | [**wifi-guardian**](https://github.com/jeffreyesdavid/wifi-guardian) | Spots fake Wi-Fi before you join it: evil twins, look-alike network names, "FREE WiFi" bait hotspots and router swaps (ARP spoofing). Built for small businesses and guest networks that can't afford enterprise tools. [See the demo →](https://github.com/jeffreyesdavid/wifi-guardian#see-it-in-action) |
@@ -24,6 +24,7 @@ Before security, I spent 10 years in digital marketing and e-commerce, so I've s
 Python · Bash · Threat detection · Incident response · Scam & fraud analysis · Network & wireless security · Local AI (Ollama) · Git · Ethereum · OSINT basics
 
 ### 📚 Currently
+- Building **Aegis Guardian** for the Meta Global AI Developer Hackathon (Oct 26 – Nov 4)
 - Studying for **CompTIA Security+**
 - Working through **TryHackMe** paths
 
