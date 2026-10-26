@@ -14,7 +14,7 @@ A decade in digital marketing and e-commerce gave me an insider's view of how fr
 
 | Project | What it does |
 |---|---|
-| [**aegis-guardian**](https://github.com/jeffreyesdavid/aegis-guardian) | 🆕 A free, bilingual (English/Spanish) anti-scam agent: paste a suspicious text or screenshot and it explains the red flags and what to do next. Consent-first by design, so it can never become the surveillance tool it guards against. Local scam shield shipped (16 tests); AI scanner in progress for the **Meta Global AI Developer Hackathon**. [Project page →](https://jeffreyesdavid.github.io/aegis-guardian/) |
+| [**aegis-guardian**](https://github.com/jeffreyesdavid/aegis-guardian) | 🆕 A free, bilingual (English/Spanish) anti-scam agent: paste a suspicious text or screenshot and it explains the red flags and what to do next. Consent-first by design, so it can never become the surveillance tool it guards against. Bilingual scam checker live in the browser; AI layer powered by Meta's **Muse Spark**. [Try it →](https://jeffreyesdavid.github.io/aegis-guardian/app/) |
 | [**ai-guardian**](https://github.com/jeffreyesdavid/ai-guardian) | Discovers the AI agents on a machine (apps, coding agents, browser extensions, MCP plugins) and flags what they can reach: plain-text API keys, SSH keys, disabled permission prompts. Enterprise-style "shadow AI" visibility, free and local. [Project page →](https://jeffreyesdavid.github.io/ai-guardian/) |
 | [**php-guardian**](https://github.com/jeffreyesdavid/php-guardian) | Inventories every PHP install and flags versions exposed to php2shell, the critical flaw CISA warned about in Oct 2026. Shipped within a day of the alert; caught a real unpatched server in testing. JSON output for SIEMs. [Project page →](https://jeffreyesdavid.github.io/php-guardian/) |
 | [**wifi-guardian**](https://github.com/jeffreyesdavid/wifi-guardian) | Spots fake Wi-Fi before you join it: evil twins, look-alike network names, "FREE WiFi" bait and router swaps (ARP spoofing). Built for small businesses and guest networks without enterprise budgets. [See the demo →](https://github.com/jeffreyesdavid/wifi-guardian#see-it-in-action) |
@@ -31,7 +31,7 @@ A decade in digital marketing and e-commerce gave me an insider's view of how fr
 **Build:** Python · Bash · Swift · Git · local AI (Ollama) · Ethereum · OSINT
 
 ### Currently
-- Building **Aegis Guardian** for the Meta Global AI Developer Hackathon (Oct 26 – Nov 4)
+- Building **Aegis Guardian**, a bilingual AI scam shield powered by Meta's Muse Spark
 - Studying for **CompTIA Security+**
 - Working through **TryHackMe** paths
 
