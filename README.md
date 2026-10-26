@@ -32,8 +32,8 @@ A decade in digital marketing and e-commerce gave me an insider's view of how fr
 
 ### Currently
 - Building **Aegis Guardian**, a bilingual AI scam shield powered by Meta's Muse Spark
-- Studying for **CompTIA Security+**
-- Working through **TryHackMe** paths
+- Shipping the **Guardian series** hands-on: open-source security tools, each tested and documented
+- Logging the work in my [cybersecurity journey](https://github.com/jeffreyesdavid/cybersecurity-journey)
 
 ### Find me
 [Resume](https://jeffreyesdavid.github.io/interactive-resume/) · [LinkedIn](https://www.linkedin.com/in/jeffreyesdavid/) · [TryHackMe](https://tryhackme.com/p/gahtomahiko) · [SoundCloud](https://soundcloud.com/jeffreyesdavid)
