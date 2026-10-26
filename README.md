@@ -36,4 +36,4 @@ A decade in digital marketing and e-commerce gave me an insider's view of how fr
 - Logging the work in my [cybersecurity journey](https://github.com/jeffreyesdavid/cybersecurity-journey)
 
 ### Find me
-[Resume](https://jeffreyesdavid.github.io/interactive-resume/) · [LinkedIn](https://www.linkedin.com/in/jeffreyesdavid/) · [TryHackMe](https://tryhackme.com/p/gahtomahiko) · [SoundCloud](https://soundcloud.com/jeffreyesdavid)
+[Resume](https://jeffreyesdavid.github.io/interactive-resume/) · [LinkedIn](https://www.linkedin.com/in/jeffreyesdavid/) · [SoundCloud](https://soundcloud.com/jeffreyesdavid)
